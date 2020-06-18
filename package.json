@@ -1,0 +1,17 @@
+{
+  "name": "mini-browser",
+  "version": "1.0.0",
+  "description": "simple browser made with electron",
+  "main": "index.ts",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ljnferreira",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/react": "^16.9.36",
+    "electron": "^9.0.4",
+    "react": "^16.13.1"
+  }
+}
